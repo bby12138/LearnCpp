@@ -1,0 +1,1 @@
+D:\develop\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/develop/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S "D:\Projects\CProjects\Learning C++\数据结构\顺序表\顺序表的手动实现" -B "D:\Projects\CProjects\Learning C++\数据结构\顺序表\顺序表的手动实现\cmake-build-debug"
